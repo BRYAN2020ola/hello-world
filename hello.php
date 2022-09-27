@@ -1,3 +1,3 @@
 <?php
 
-  echo date('d-m-y');
+  echo 'hello world';
